@@ -1,6 +1,3 @@
-Ëã·¨Í¨¹ýinitial.mÎÄ¼þÆô¶¯
-Ìá¹©Èý¸ö¿Éµ÷²ÎÊýÒÔµ÷ÕûËã·¨È¥ÓêÖÊÁ¿
-»¹ÐèÒªµÄmatlab¹¤¾ß°üÓÐ£ºspams-matlab-v2.5-svn2014-07-04
-Ëã·¨µ÷ÓÃÁËC++º¯Êý£¬¿ÉÄÜÐèÒªÅäÖÃÏà¹ØÏµÍ³»·¾³£¬Èç°²×°C++±àÒëÆ÷
-¾­²âÊÔÔÚºÏÀíÅäÖÃÁËÏµÍ³»·¾³Çé¿öÏÂËã·¨ÄÜË³ÀûÔËÐÐ
-´Ë´úÂëÒÑÉêÇëÈí¼þÖø×÷È¨£¬°æÈ¨ÊÜÖÐ»ªÈËÃñ¹²ºÍ¹úÏà¹Ø·¨ÂÉ±£»¤
+ç®—æ³•é€šè¿‡initial.mæ–‡ä»¶å¯åŠ¨
+æä¾›ä¸‰ä¸ªå¯è°ƒå‚æ•°ä»¥è°ƒæ•´ç®—æ³•åŽ»é›¨è´¨é‡
+è¿˜éœ€è¦çš„matlabå·¥å…·åŒ…æœ‰ï¼šspams-matlab-v2.5-svn2014-07-04
